@@ -28,4 +28,5 @@ Goal - I want contributors to help me list some favorite Baseball players.
 7. ドカベン 山田太郎
 8. Taneichi Atsuki
 9. sadaharu oh
+10. Ichiro Suzuki
 
