@@ -33,3 +33,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 8. Apex Legends
 9. Mario Kart 8DX
 10. Grand Theft Auto V
+11. valorant
